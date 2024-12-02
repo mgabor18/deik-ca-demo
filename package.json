@@ -4,6 +4,7 @@
   "description": "Demo repository for \"Code analysis and Tools\" topic. | JS",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "jest",
     "test:calculator": "jest calculator.test.js",
     "test:fibonacci": "jest fibonacci.test.js"
