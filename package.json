@@ -1,0 +1,21 @@
+{
+  "name": "deik-ca-demo",
+  "version": "1.0.0",
+  "description": "Demo repository for \"Code analysis and Tools\" topic. | JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "code",
+    "analysis",
+    "JS"
+  ],
+  "author": "Gabor Marton",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.16.0",
+    "jest": "^29.7.0"
+  }
+}
